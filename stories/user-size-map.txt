@@ -1,0 +1,10 @@
+==================================
+Generate a Map of a Specified Size
+==================================
+
+:points:        4
+:status:        Not Started
+:persona:       User
+
+As a user, I want to be able to specify the size of my map, in tiles.
+The single returned image will be composed of x by y geomorphic tiles.

@@ -1,0 +1,11 @@
+=======================
+Adding Geomorphic Tiles
+=======================
+
+:points:        4
+:status:        Not Started
+:persona:       Admin
+
+As an administrative user, I want to be able to add new tiles to the
+system.  These tiles will be geomorphic tiles with openings at well
+defined locations.

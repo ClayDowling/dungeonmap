@@ -1,0 +1,10 @@
+========================
+Default Service Behavior
+========================
+
+:points:        4
+:status:        Not Started
+:persona:       Consumer
+
+As a user, when I make a default call to the dungeonmap service I want
+to receive a randomly generated 3x3 tile map as a PNG image file.

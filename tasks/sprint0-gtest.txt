@@ -4,7 +4,7 @@ Add GTest
 
 :points:	2
 :assigned:	clay
-:status:	In Progress
+:status:	Done
 
 Google Test needs to be added to the repository to facilitate test
 driven development.

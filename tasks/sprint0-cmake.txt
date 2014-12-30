@@ -3,7 +3,7 @@ CMakeLists.txt for Dungeonmap
 =============================
 
 :points:	4
-:status:	Not Started
+:status:	In Progress
 :assigned:	clay
 
 CMakeLists.txt should be set up for dungeonmap.  The CmakeLists.txt

@@ -13,3 +13,9 @@ needs to accomplish the following tasks:
   * GTest
   * Build the dungeonmap service
   * Run unit tests as part of the build
+
+Acceptance Criteria
+===================
+
+  * When run, a Makefile should be generated.
+  * The Makefile should have references for Qt.

@@ -1,0 +1,15 @@
+=============================
+CMakeLists.txt for Dungeonmap
+=============================
+
+:points:	4
+:status:	Not Started
+:assigned:	clay
+
+CMakeLists.txt should be set up for dungeonmap.  The CmakeLists.txt
+needs to accomplish the following tasks:
+
+  * Link to Qt
+  * GTest
+  * Build the dungeonmap service
+  * Run unit tests as part of the build
